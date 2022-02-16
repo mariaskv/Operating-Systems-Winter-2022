@@ -1,0 +1,1 @@
+int producer(char* txt, char* fname, int pos, int size, int kid);

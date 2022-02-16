@@ -1,0 +1,1 @@
+int n_lines(char* fname);
